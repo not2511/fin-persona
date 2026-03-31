@@ -1,0 +1,4 @@
+{
+  "include": ["app"],
+  "pythonPath": "../venv/Scripts/python.exe"
+}
