@@ -44,7 +44,7 @@ The data flow is:
 1. Clone the repository:
 
 ```powershell
-git clone <repo-url> "c:\VS code\fin-persona"
+git clone https://github.com/not2511/fin-persona "c:\VS code\fin-persona"
 cd "c:\VS code\fin-persona"
 ```
 
