@@ -52,6 +52,7 @@ def generate_message(customer, segment, strategy):
         messages=[{"role": "user", "content": prompt}],
         max_tokens=80,
         temperature=0.7,
+        timeout=10,
     )
     latency = time.time() - start
 
